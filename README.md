@@ -4,4 +4,4 @@
 
 ###
 
-<p align="center">Bru Melis, Eduardo<br>Bru Melis, Miguel Angel<br>Carmona, José<br>Choquevillca, Tania<br>Di Stefano, Diego Raul<br>Gazzarcia, Leandro<br>Ortiz, Carlos Gustavo<br>Palomo, José Facundo<br>Montiel, Israel Leandro</p>
+<p align="center">:recycle:, Bru Melis,Eduardo<br>:recycle:Bru Melis, Miguel Angel<br>:recycle:Carmona, José<br>:recycle:Choquevillca, Tania<br>:recycle:Di Stefano, Diego Raul<br>:recycle:Gazzarcia, Leandro<br>:recycle:Ortiz, Carlos Gustavo<br>:recycle:Palomo, José Facundo<br>:recycle:Montiel, Israel Leandro</p>
