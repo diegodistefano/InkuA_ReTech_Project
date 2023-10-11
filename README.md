@@ -1,7 +1,7 @@
 <h1 align="center"> InkuA_ReTech_Project </h1>
 
 ## ♻ "ReTech - Renovando Oportunidades" 
-Es un proyecto de impacto social enfocado en la reutilización de residuos electrónicos y la promoción de la educación en informática entre jóvenes de bajos recursos. Nuestra misión es aprovechar dispositivos electrónicos en desuso, reciclarlos de manera responsable y brindar a jóvenes la oportunidad de aprender habilidades sobre informática a fin de mejorar sus perspectivas de futuro.
+Es un proyecto de impacto social y ambiental enfocado en la reutilización de residuos electrónicos y la promoción de la educación en informática entre jóvenes de bajos recursos. Nuestra misión es aprovechar dispositivos electrónicos en desuso, reciclarlos de manera responsable y brindar a jóvenes la oportunidad de aprender habilidades sobre informática a fin de mejorar sus perspectivas de futuro.
 
 Las 3 características más importantes del proyecto:
 
