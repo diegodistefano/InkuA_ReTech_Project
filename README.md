@@ -5,7 +5,7 @@ Es un proyecto de impacto social y ambiental enfocado en la reutilización de re
 
 Las 3 características más importantes del proyecto:
 
-• 💻 Desarrollo de la web:  Necesitamos crear un sitio web atractivo y funcional que informe sobre nuestro proyecto, permita donaciones en línea y ofrezca información educativa sobre la basura electrónica y la informática.
+• 💻 Desarrollo de la web:  Necesitamos crear un sitio web atractivo y funcional que informe sobre nuestro proyecto, permita donaciones en línea y ofrezca información educativa sobre los residuos electrónicos y la informática.
 
 • 🚻 Voluntariado: Formulario para ofrecer colaboración en miras a la reutilización de dispositivos electrónicos o la enseñanza de informática a jóvenes.
 
