@@ -19,7 +19,7 @@ Las 3 características más importantes del proyecto:
 
 ###
 
-<p align="left">:recycle: Bru Melis,Eduardo<br>:recycle: Bru Melis, Miguel Angel<br>:recycle: Carmona, José<br>:recycle: Choquevillca, Tania<br>:recycle: Di Stefano, Diego Raul<br>:recycle: Montiel, Israel Leandro<br>:recycle: Ortiz, Carlos Gustavo <br>:recycle: Palomo, José Facundo<br>:recycle: Zalazar, Leandro<br></p>
+<p align="left">:recycle: Bru Melis,Eduardo<br>:recycle: Bru Melis, Miguel Angel<br>:recycle: Carmona, José<br>:recycle: Choquevillca, Tania<br>:recycle: Di Stefano, Diego Raul<br>:recycle: Montiel, Israel Leonardo<br>:recycle: Ortiz, Carlos Gustavo <br>:recycle: Palomo, José Facundo<br>:recycle: Zalazar, Leandro<br></p>
 
 
 
