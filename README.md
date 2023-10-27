@@ -5,13 +5,13 @@ Se focaliza en la realización de talleres de creación artística y la elaborac
 
 Las características clave del proyecto son las siguientes:
 
- 💻 Desarrollo de la web: Creación de  un sitio web atractivo y funcional que permita conectar actores sociales clave, que otorgue visibilidad a los talleres de arte y creación y ofrezca información educativa sobre la basura electrónica y la informática.
+ 💻 Desarrollo de la web: Creación de  un sitio web atractivo y funcional que permita conectar actores sociales clave, otorgue visibilidad a los talleres de arte y creación y ofrezca información educativa sobre la basura electrónica y la informática.
 
 🚮 Recopilación de Basura Electrónica: Se  recopilan dispositivos electrónicos en desuso de donaciones, como computadoras antiguas, impresoras, teléfonos móviles, etc. También se buscan colaboraciones con empresas locales para recolectar estos dispositivos.
 
-♻️ Talleres de Arte y Creación: Se organizarían talleres creativos en los que los jóvenes aprenderían a desmontar, reparar y reutilizar estos dispositivos para crear arte o productos prácticos. 
+♻️ Talleres de Arte y Creación: Se organizarán talleres creativos en los que los jóvenes aprenderían a desmontar, reparar y reutilizar estos dispositivos para crear arte o productos prácticos. 
 
-🚻 Exposiciones y Mercados de Arte: Se organizarían eventos para mostrar las creaciones de los jóvenes a la comunidad local. Esto no solo les daría una plataforma para mostrar su trabajo, sino que también ayudaría a sensibilizar sobre el problema de la basura electrónica y promovería el consumo sostenible.
+🚻 Exposiciones y Mercados de Arte: Se organizarán eventos para mostrar las creaciones de los jóvenes a la comunidad local. Esto no solo les otorga una plataforma para mostrar su trabajo, sino que también ayuda a sensibilizar sobre el problema de la basura electrónica y promovería el consumo sostenible.
 
 🛒Venta de Productos: Se podrán vender las creaciones de los jóvenes en mercados de arte o en línea, y los ingresos generados podrían reinvertirse en el proyecto para financiar más talleres y programas de educación en informática.
 
