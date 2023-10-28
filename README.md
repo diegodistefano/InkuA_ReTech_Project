@@ -1,17 +1,19 @@
 <h1 align="center"> InkuA_ReTech_Project </h1>
 
 ## ♻ "ReTech - Renovando Oportunidades" 
-Es un proyecto de impacto social y ambiental enfocado en la reutilización de residuos electrónicos y la promoción de la educación en informática entre jóvenes de bajos recursos. Nuestra misión es aprovechar dispositivos electrónicos en desuso, reciclarlos de manera responsable y brindar a jóvenes la oportunidad de aprender habilidades sobre informática a fin de mejorar sus perspectivas de futuro.
+Se focaliza en la realización de talleres de creación artística y la elaboración de productos a partir de residuos electrónicos. Este proyecto presenta un enfoque social y ambiental. Por un lado, busca empoderar a jóvenes de bajos recursos mediante la reutilización creativa de residuos electrónicos, brindándoles la oportunidad de adquirir habilidades valiosas. Por otro lado, se dedica a sensibilizar a la comunidad sobre la importancia de reducir la generación de desechos electrónicos y promover un consumo más sostenible.
 
-Las 3 características más importantes del proyecto:
+Las características clave del proyecto son las siguientes:
 
-• 💻 Desarrollo de la web:  Necesitamos crear un sitio web atractivo y funcional que informe sobre nuestro proyecto, permita donaciones en línea y ofrezca información educativa sobre los residuos electrónicos y la informática.
+ 💻 Desarrollo de la web: Creación de  un sitio web atractivo y funcional que permita conectar actores sociales clave, otorgue visibilidad a los talleres de arte y creación y ofrezca información educativa sobre la basura electrónica y la informática.
 
-• 🚻 Voluntariado: Formulario para ofrecer colaboración en miras a la reutilización de dispositivos electrónicos o la enseñanza de informática a jóvenes.
+🚮 Recopilación de Basura Electrónica: Se  recopilan dispositivos electrónicos en desuso de donaciones, como computadoras antiguas, impresoras, teléfonos móviles, etc. También se buscan colaboraciones con empresas locales para recolectar estos dispositivos.
 
-• 🚮  Donaciones: Contribuir con dispositivos electrónicos en desuso o realizar donaciones monetarias para apoyar nuestras actividades.
+♻️ Talleres de Arte y Creación: Se organizarán talleres creativos en los que los jóvenes aprenderían a desmontar, reparar y reutilizar estos dispositivos para crear arte o productos prácticos. 
 
+🚻 Exposiciones y Mercados de Arte: Se organizarán eventos para mostrar las creaciones de los jóvenes a la comunidad local. Esto no solo les otorga una plataforma para mostrar su trabajo, sino que también ayuda a sensibilizar sobre el problema de la basura electrónica y promovería el consumo sostenible.
 
+🛒Venta de Productos: Se podrán vender las creaciones de los jóvenes en mercados de arte o en línea, y los ingresos generados podrían reinvertirse en el proyecto para financiar más talleres y programas de educación en informática.
 
 
 
